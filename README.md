@@ -61,13 +61,6 @@ item KNN에 Last-FM 데이터셋 적용시 너무 큰 Matrix가 생성되어 오
 
 # ■ 데이터셋 Reference
 
-|Dataset|Users|Items|Inter|
-|:---:|:---:|:---:|:---:|
-|ML-small||||
-|ML-1m|6,040|3,706|1,000,209|
-|Last-FM|23,566|48,123|3,034,796|
-|Amazon-Book|70,679|24,915|847,733|
-
 
 ## - Movie-Lens small
 
